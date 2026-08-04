@@ -10,7 +10,7 @@ An interactive chatbot powered by Microsoft’s DialoGPT medium-sized transforme
 - Maintains dialogue history for better context
 - Easy to extend and integrate
 
----
+-----
 
 ## Requirements
 
