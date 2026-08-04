@@ -2,7 +2,7 @@
 
 An interactive chatbot powered by Microsoft’s DialoGPT medium-sized transformer model.
 
----
+------
 
 ## Features
 
